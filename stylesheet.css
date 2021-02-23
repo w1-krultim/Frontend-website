@@ -1,0 +1,21 @@
+h1 {
+  color: rebeccapurple;
+}
+.container
+{
+  width:100%;
+  max-width: 1440px;
+}
+.sizerow
+{
+    width: 90%;
+    max-width: 1080px;
+    margin: 0 auto;
+    min-height: 100px;
+}
+.column-50
+{
+  width:50%;
+}
+
+
