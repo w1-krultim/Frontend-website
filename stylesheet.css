@@ -13,10 +13,13 @@ body {
 
 .container {
   width: 100%;
-  max-width: 1440px;
+  max-width: 980px;
   color: #502b03;
+  margin-right:auto;
+  margin-left:auto; 
 }
 .sizerow {
+  display: flex;
   width: 90%;
   max-width: 1080px;
   margin: 0 auto;
@@ -28,19 +31,17 @@ body {
 .menu {
   position: absolute;
   color: #502b03;
-  left: 45.8%;
-  top: 4%;
   font-size: 105%;
   font-weight: bold;
+  top:15px;
 }
 .menu ul {
   list-style-type: none;
-  width: 150%;
+  padding-left:0px;
 }
 .menu ul li {
-  display: inline;
-  margin-left: 2%;
-  margin-right: 2%;
+  display: inline-block;
+  padding-right:20px;
   padding-bottom: 6.5%;
   z-index: 1;
 }
