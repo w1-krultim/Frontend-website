@@ -27,7 +27,7 @@ body {
 }
 .column-50 {
   width: 45%;
-  margin-right:10%;
+  margin-right:5%;
 }
 .menu {
   position: absolute;
@@ -65,12 +65,12 @@ body {
   left: 10.5%;
   width: 35%;
 }
-.mainText > h2 {
-  font-size: 325%;
-  font-weight: normal;
+h2 {
+  font-size: 225%;
+  font-weight: 300;
 }
 .name {
-  font-weight: bold;
+  font-weight: 800;
 }
 .mainText p {
   text-decoration-thickness: 5px;
