@@ -31,6 +31,15 @@ body {
   width: 45%;
   margin-right: 5%;
 }
+.column-25
+{
+  width:20%;
+  margin-right:5%;
+}
+.column-100
+{
+  width:100%;
+}
 .menu {
   position: absolute;
   color: #502b03;
