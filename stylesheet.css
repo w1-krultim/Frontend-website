@@ -14,8 +14,10 @@ body {
 }
 .products-grid
 {
-  border-radius:25px;
+  border-radius:px;
   box-shadow: 0 10px 60px 0 rgba(0,0,0,0.07);
+  padding:20px;
+  width:250px;
 }
 .w-100
 {
@@ -24,6 +26,37 @@ body {
 .w-25
 {
   width:25%;
+}
+.footer {
+  box-sizing:border-box;
+  height: 330px;
+  width: 1600px;
+  border: 1px solid #979797;
+  background-color: #2D1B15;
+}
+.table
+{
+  padding-top:150px;
+  margin-right:0px !important;
+  background-color:#EED2B4;
+  padding-right:20px;
+  padding-left:40px;
+}
+.footerlogo {
+  height: 149.04px;
+  width: 149.04px;
+    margin-left: 670px;
+}
+.footertext {
+  height: 60px;
+  width: 187px;
+  color: #FFFFFF;
+  font-family: Poppins;
+  font-size: 15px;
+  letter-spacing: 0.28px;
+  line-height: 20px;
+  text-align: center;
+    margin-left: 627px;
 }
 .product h2{
   text-align: center;
@@ -34,6 +67,8 @@ body {
   margin-top:10px;
   padding-top:50px;
   padding-bottom:100px;
+  padding-right:150px;
+  padding-left:150px;
 }
 .container {
   width: 100%;
@@ -129,4 +164,6 @@ h2 {
 /* ===================Product Overzicht========================= */
 
 /* ==================Over Ons=================================== */
+
 /* ==================Contact==================================== */
+
